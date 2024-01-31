@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name Ruslan Babakian
+
+I graduated from Bauman Moscow Technical University (BMSTU) and I am Scoltech student right now
 
 <!--
 **RusBabakyan/RusBabakyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
