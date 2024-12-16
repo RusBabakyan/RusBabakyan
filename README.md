@@ -4,7 +4,7 @@
 - I am studying for a master's degree in Robotics at the Mobile Robotics laboratory.
 
 - 🔭 I’m currently working on [crossformer](https://crossformer-model.github.io/) evaluation for navigation robotics tasks
-- 🌱 I’m currently learning multimodal Large Language Models for tobotics field (since i believe that it's future of the AI for robotics)
+- 🌱 I’m currently learning multimodal Large Language Models for robotics field (since i believe that it's future of the AI for robotics)
 
 ### List of my projects:
 
